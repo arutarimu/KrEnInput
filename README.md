@@ -28,4 +28,5 @@ You are more than welcome to use, modify, and share.
 
 # 한글 README
 python3를 이용하여 한글을 분해하고 영타로 변환하는 소스입니다.    
+예 : 안녕 -> 
 neotune님의 초성, 중성, 종성 리스트와 소스를 바탕으로 만들어졌습니다. https://github.com/neotune
