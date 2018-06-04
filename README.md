@@ -9,6 +9,6 @@ Korean written language called "한글" (Hangul) is a composition of two to thre
 Let's go back to "안녕" to demonstrate.  
 안녕's 안 is made up of First : ㅇ Middle :ㅏ Final : ㄴ, and each characters can be typed with one keystroke.  
 Because Korean keyboard layout is essentially just an overlay on the English QWERTY keyboard, it is easy to convert.  
-![alt text](https://imgur.com/a/O315kji)
+![Image](https://i.imgur.com/FxWXp4N.png)
 
 It works by decomposing the Korean characteristic into individual characters, and matching them with English QWERTY layout.  
